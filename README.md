@@ -65,6 +65,6 @@ Je prépare actuellement une candidature à un contrat doctoral autour d’un pr
 
 ## Contact
 
-- 📧 Email : issakachaou@outlook.fr  
-- 💼 LinkedIn : https://www.linkedin.com/in/issa-kachaou  
+- 📧 Email : [Mail](issakachaou@outlook.fr)
+- 💼 LinkedIn : [Issa Kachaou](https://www.linkedin.com/in/issa-kachaou)
 
