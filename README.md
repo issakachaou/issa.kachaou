@@ -38,7 +38,7 @@ Je prépare actuellement une candidature à un contrat doctoral autour d’un pr
 
 > Cet article propose une analyse empirique de l’impact de la production locale d’énergies renouvelables sur les prix des maisons individuelles en Île-de-France. À partir de données de transactions immobilières et de modèles hédoniques, l’étude met en évidence une décote moyenne associée aux communes productrices, ainsi qu’une relation non linéaire entre l’intensité de la production et les prix immobiliers. Les résultats suggèrent que les externalités locales liées aux infrastructures énergétiques sont capitalisées négativement dans les prix résidentiels.
 
-🔗 Dépôt : `Article académique (version de travail)`  
+🔗 Dépôt : [Article](papers/LE_BATIMENT_ET_LES_ENERGIES_RENOUVELABLES.html)
 📄 Mots-clés : valorisation immobilière, risque climatique, énergies renouvelables, modèles hédoniques, transition énergétique
 
 ---
