@@ -1,4 +1,4 @@
-# Issa Kachaou - Portfolio de recherche 
+# Portfolio de recherche 
 
 ## À propos
 
