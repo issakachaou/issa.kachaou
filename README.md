@@ -2,7 +2,7 @@
 
 ## À propos
 
-Je suis étudiant en Master 2 Ingénierie Immobilière (parcours accrédité RICS) à l'Université Paris-Est Créteil (UPEC), et actuellement analyste quantitatif en asset management au siège de La Poste Immobilier (LPI).
+Je suis étudiant en Master 2 Ingénierie Immobilière (parcours accrédité RICS) à l'Université Paris-Est Créteil (UPEC), et actuellement analyste asset manager au siège de La Poste Immobilier (LPI).
 
 Mes travaux et intérêts académiques s'inscrivent à l'intersection de la **valorisation immobilière**, de la **modélisation financière** et des **enjeux environnementaux**, avec un intérêt particulier pour l'intégration des informations extra-financières dans les modèles de valorisation.
 
