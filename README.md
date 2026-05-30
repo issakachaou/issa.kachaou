@@ -22,13 +22,13 @@ Je prépare actuellement une candidature à un contrat doctoral autour d’un pr
 
 ## Projets principaux
 
-### Mémoire de Master 2 
+### Mémoire de Master 2, 2026
 **Impact de la performance environnementale sur la valorisation des actifs immobiliers : prime verte, décote brune et intégration du risque réglementaire dans les modèles de pricing**  
 *UPEC X LPI*
 
 > Recherche théorique et empirique sur l’impact de la performance environnementale et du risque réglementaire dans la valorisation des actifs immobiliers, mettant en évidence l’existence d’une prime verte liée aux certifications environnementales ainsi qu’un effet négatif significatif du Décret Éco Énergie Tertiaire (DEET) sur la valeur des actifs, tout en soulignant les limites des modèles de pricing traditionnels face à l’obsolescence environnementale.  
 
-🔗 Dépôt : `memoire-prime-verte` (à venir)  
+🔗 Dépôt : `Confidentiel` (mis à disposition du jury)   
 📄 Mots-clés : prime verte, décote brune, ESG, valorisation immobilière
 
 ---
