@@ -12,17 +12,18 @@ Je prépare actuellement une candidature à un contrat doctoral autour d’un pr
 
 ## Axes de recherche
 
-- Prime verte et décote brune sur les marchés immobiliers  
-- Risque climatique et risque réglementaire  
-- Valorisation immobilière durable   
-- Intégration des données ESG dans l'évaluation des actifs  
+- Économie immobilière  
+- Finance immobilière 
+- Économétrie appliquée  
+- Risques climatiques physiques et transitionnels
+- Marchés immobiliers et sociétés immobilières cotées
 
 ---
 
 ## Projets principaux
 
-### Mémoire de Master 2 (en cours)
-**Impact de la performance environnementale sur la valeur des actifs immobiliers : analyse de prime verte, de la décote brune et du risque réglementaire**  
+### Mémoire de Master 2 
+**Impact de la performance environnementale sur la valorisation des actifs immobiliers : prime verte, décote brune et intégration du risque réglementaire dans les modèles de pricing**  
 *UPEC X LPI*
 
 > Analyse théorique et empirique de la prime verte, de la décote brune et du risque réglementaire dans les modèles de valorisation immobilière.  
