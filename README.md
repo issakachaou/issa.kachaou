@@ -29,6 +29,7 @@ Je prépare actuellement une candidature à un contrat doctoral autour d’un pr
 > Recherche théorique et empirique sur l’impact de la performance environnementale et du risque réglementaire dans la valorisation des actifs immobiliers, mettant en évidence l’existence d’une prime verte liée aux certifications environnementales ainsi qu’un effet négatif significatif du Décret Éco Énergie Tertiaire (DEET) sur la valeur des actifs, tout en soulignant les limites des modèles de pricing traditionnels face à l’obsolescence environnementale.  
 
 🔗 Dépôt : `Confidentiel` (mis à disposition du jury)   
+
 📄 Mots-clés : prime verte, décote brune, ESG, valorisation immobilière
 
 ---
@@ -44,6 +45,16 @@ Je prépare actuellement une candidature à un contrat doctoral autour d’un pr
 📄 Mots-clés : valorisation immobilière, risque climatique, énergies renouvelables, modèles hédoniques, transition énergétique
 
 ---
+### Article académique de Master 2, 2026
+**Structure spatiale des prix immobiliers et rente de localisation : une application du modèle d’Alonso au cas de Carré Sénart**  
+*UPEC*
+>Analyse économétrique de 2 947 transactions immobilières visant à mesurer l’effet de la distance à Carré Sénart sur les prix des logements. Les résultats mettent en évidence une rente de localisation significative, avec une valorisation des biens situés à proximité du pôle commercial et une décote progressive à mesure que l’on s’en éloigne.
+
+🔗 Dépôt : `Confidentiel` (mis à disposition du jury)  
+
+📄 Mots-clés : Économie urbaine, Prix hédoniques, Accessibilité, Polarité commerciale
+
+---
 
 ### Rapport de stage de Master 1 – Asset Management, 2025
 **Comment la réhabilitation de son parc permet-elle à La Poste Immobilier d’être à la fois compétitive et durable ?**
@@ -51,6 +62,7 @@ Je prépare actuellement une candidature à un contrat doctoral autour d’un pr
 > Analyse de projets de réhabilitation d’actifs immobiliers à partir de données opérationnelles et financières, appliquée à la transformation de bureaux vacants en résidences étudiantes. Ce rapport met en évidence le rôle de la requalification du bâti existant dans l’adaptation du parc immobilier aux contraintes réglementaires, énergétiques et territoriales.
 
 🔗 Dépôt : `Confidentiel` (mis à disposition du jury)  
+
 📄 Mots-clés : asset management, réhabilitation, durabilité, valorisation
 
 ---
