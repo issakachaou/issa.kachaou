@@ -6,7 +6,7 @@ Je suis étudiant en Master 2 Ingénierie Immobilière (parcours accrédité RIC
 
 Mes travaux et intérêts académiques s'inscrivent à l'intersection de la **valorisation immobilière**, de la **modélisation financière** et des **enjeux environnementaux**, avec un intérêt particulier pour l'intégration des informations extra-financières dans les modèles de valorisation.
 
-Je prépare actuellement une candidature à un contrat doctoral autour d’un projet de recherche intitulé « ***Risque climatique et valorisation des actifs immobiliers : analyse empirique de l’intégration des risques physiques et transitionnels dans les mécanismes de valorisation immobilière*** », visant à analyser l’intégration des risques climatiques dans les modèles de valorisation immobilière et à évaluer la résilience des modèles de pricing actuels face aux enjeux environnementaux et réglementaires.
+Je prépare actuellement une candidature à un contrat doctoral autour d’un projet de recherche intitulé « ***Risque climatique et valorisation des actifs immobiliers : analyse empirique de l’intégration des risques physiques et transitionnels dans les mécanismes de valorisation immobilière*** », visant à analyser l’intégration du risque physique dans les prix immobiliers, ainsi que l’impact du Décret Éco Énergie Tertiaire (DEET) sur la valeur des actifs immobiliers et des sociétés d’investissement immobilier cotées (SIIC). Ce travail s’inscrit ainsi dans une réflexion plus large sur la formation des prix en présence de risques émergents et d’incertitudes réglementaires, dans un contexte de transition environnementale
 
 ---
 
