@@ -2,11 +2,13 @@
 
 ## À propos
 
-Je suis étudiant en Master 2 Ingénierie Immobilière (parcours accrédité RICS) à l'Université Paris-Est Créteil (UPEC), et actuellement analyste asset manager au siège de La Poste Immobilier (LPI).
+Je suis actuellement Analyste Asset Management au sein de La Poste Immobilier et futur diplômé du Master 2 Ingénierie Immobilière (master accrédité RICS) de l'Université Paris-Est Créteil (UPEC).
 
-Mes travaux et intérêts académiques s'inscrivent à l'intersection de la **valorisation immobilière**, de la **modélisation financière** et des **enjeux environnementaux**, avec un intérêt particulier pour l'intégration des informations extra-financières dans les modèles de valorisation.
+Mes travaux et centres d'intérêt se situent à l'intersection de la recherche immobilière, de l'analyse de marché, de la modélisation financière et du traitement de données appliqués à l'immobilier. Je m'intéresse particulièrement aux mécanismes de valorisation des actifs immobiliers, à l'analyse des marchés immobiliers et à l'intégration des enjeux environnementaux dans les décisions d'investissement.
 
-Je prépare actuellement une candidature à un contrat doctoral autour d’un projet de recherche intitulé « ***Risque climatique et valorisation des actifs immobiliers : analyse empirique de l’intégration des risques physiques et transitionnels dans les mécanismes de valorisation immobilière*** », visant à analyser l’intégration du risque physique dans les prix immobiliers, ainsi que l’impact du Décret Éco Énergie Tertiaire (DEET) sur la valeur des actifs immobiliers et des sociétés d’investissement immobilier cotées (SIIC). Ce travail s’inscrit ainsi dans une réflexion plus large sur la formation des prix en présence de risques émergents et d’incertitudes réglementaires, dans un contexte de transition environnementale.
+Mes recherches portent notamment sur l'impact de la performance environnementale sur la valeur des actifs immobiliers, à travers l'étude de la prime verte, de la décote brune et du risque réglementaire. J'accorde également un intérêt particulier aux méthodes quantitatives appliquées à l'immobilier, notamment l'économétrie, l'analyse de données et la modélisation financière.
+
+Je suis actuellement à la recherche d'une opportunité en Études & Recherche immobilière, au sein d'une société de conseil, d'une foncière ou d'un investisseur institutionnel.
 
 ---
 
@@ -28,7 +30,7 @@ Je prépare actuellement une candidature à un contrat doctoral autour d’un pr
 
 > Recherche théorique et empirique sur l’impact de la performance environnementale et du risque réglementaire dans la valorisation des actifs immobiliers, mettant en évidence l’existence d’une prime verte liée aux certifications environnementales ainsi qu’un effet négatif significatif du Décret Éco Énergie Tertiaire (DEET) sur la valeur des actifs, tout en soulignant les limites des modèles de pricing traditionnels face à l’obsolescence environnementale.  
 
-🔗 Dépôt : `Confidentiel` (mis à disposition du jury)   
+🔗 Dépôt : `Confidentiel`  
 
 📄 Mots-clés : prime verte, décote brune, ESG, valorisation immobilière
 
@@ -50,7 +52,7 @@ Je prépare actuellement une candidature à un contrat doctoral autour d’un pr
 *UPEC*
 >Analyse économétrique de 2 947 transactions immobilières visant à mesurer l’effet de la distance à Carré Sénart sur les prix des logements. Les résultats mettent en évidence une rente de localisation significative, avec une valorisation des biens situés à proximité du pôle commercial et une décote progressive à mesure que l’on s’en éloigne.
 
-🔗 Dépôt : `Confidentiel` (mis à disposition du jury)  
+🔗 Dépôt : `Confidentiel` 
 
 📄 Mots-clés : Économie urbaine, Prix hédoniques, Accessibilité, Polarité commerciale
 
@@ -61,7 +63,7 @@ Je prépare actuellement une candidature à un contrat doctoral autour d’un pr
 *UPEC X LPI*
 > Analyse de projets de réhabilitation d’actifs immobiliers à partir de données opérationnelles et financières, appliquée à la transformation de bureaux vacants en résidences étudiantes. Ce rapport met en évidence le rôle de la requalification du bâti existant dans l’adaptation du parc immobilier aux contraintes réglementaires, énergétiques et territoriales.
 
-🔗 Dépôt : `Confidentiel` (mis à disposition du jury)  
+🔗 Dépôt : `Confidentiel`
 
 📄 Mots-clés : asset management, réhabilitation, durabilité, valorisation
 
@@ -79,6 +81,6 @@ Je prépare actuellement une candidature à un contrat doctoral autour d’un pr
 
 ## Contact
 
-- 📧 Email : [Mail](issakachaou@outlook.fr)
+- 📧 Email : [Mail](issa.kachaou@pm.me)
 - 💼 LinkedIn : [Issa Kachaou](https://www.linkedin.com/in/issa-kachaou)
 
