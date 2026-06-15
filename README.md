@@ -1,4 +1,4 @@
-# Portfolio de recherche 
+# Research Portfolio - Real Estate Economics & Market Analysis
 
 ## À propos
 
