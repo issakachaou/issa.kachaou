@@ -124,7 +124,7 @@ Ce travail étudie le rôle de la requalification du bâti existant dans l'adapt
 
 ## Expérience professionnelle
 
-### Analyste Asset Management - La Poste Immobilier
+### Analyste Asset Managemeer - La Poste Immobilier
 
 *Direction de la Politique Immobilière et de l'Action Territoriale*
 
