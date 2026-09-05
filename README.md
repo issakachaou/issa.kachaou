@@ -84,7 +84,7 @@ Les résultats mettent en évidence une rente de localisation significative, car
 
 **Méthodes :** modèles hédoniques, analyse spatiale, économie urbaine.
 
-🔗 Dépôt : `Confidentiel`
+🔗 Dépôt : [Article](papers/CARRE_SENART.html)
 
 📄 **Mots-clés :** économie urbaine, rente de localisation, prix hédoniques, accessibilité, polarité commerciale.
 
